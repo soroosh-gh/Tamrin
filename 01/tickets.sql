@@ -1,0 +1,1 @@
+INSERT INTO `tickets`(`user_info`, `content`, `send_time`, `file_atch`) VALUES ('Soroosh Ghiasi','content to test sql code',time,'D:/test')

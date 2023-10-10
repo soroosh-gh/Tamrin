@@ -1,0 +1,1 @@
+INSERT INTO `user`( `user_Fname`, `user_Lname`, `username`, `password`) VALUES ('Soroosh','Ghiasi','Sgh12','sG8131')
